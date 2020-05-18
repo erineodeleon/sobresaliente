@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(231, 229, 229);
+}
+
+.caja {
+    background-color: rgb(252, 252, 252);
+    border-style: solid;
+    border-color: rgb(145, 185, 164);
+    border-width: 1px;
+    border-radius: 2px;
+    border-top: solid 0px;
+}
+
+.floote {
+    padding: 10px;
+    background-color: rgb(252, 252, 252);
+    border-style: solid;
+    border-color: rgb(145, 185, 164);
+    border-width: 1px;
+    border-radius: 2px;
+    border-top: solid 0px;
+}
+
+.button {
+    background-color: rgb(252, 252, 252);
+    border-style: solid;
+    border-color: rgb(145, 185, 164);
+    border-width: 1px;
+}
+
+.contenido {
+    padding: 10px;
+}
+
+.primario {
+    background-color: rgb(71, 174, 243);
+    padding: 5px;
+    color: whitesmoke
+}
+
+.segundo {
+    background-color: rgb(143, 146, 148);
+    padding: 5px;
+    color: whitesmoke
+}
