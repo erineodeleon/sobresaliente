@@ -7,7 +7,7 @@ body {
     border-style: solid;
     border-color: rgb(145, 185, 164);
     border-width: 1px;
-    border-radius: 2px;
+    sss border-radius: 2px;
     border-top: solid 0px;
 }
 
@@ -30,6 +30,7 @@ body {
 
 .contenido {
     padding: 10px;
+    color: rgb(58, 117, 112);
 }
 
 .primario {
@@ -42,4 +43,9 @@ body {
     background-color: rgb(143, 146, 148);
     padding: 5px;
     color: whitesmoke
+}
+
+.md {
+    text-align: right;
+    color: rgb(71, 174, 243);
 }
